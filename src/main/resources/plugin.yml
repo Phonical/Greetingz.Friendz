@@ -1,0 +1,4 @@
+name: Hello.friends
+version: ${project.version}
+main: me.phonical.hello.friends.Hello.main
+api-version: 1.13
