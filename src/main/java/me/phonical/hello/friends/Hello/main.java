@@ -8,6 +8,7 @@ public final class main extends JavaPlugin implements CommandExecutor {
     @Override
     public void onEnable() {
         // Plugin startup logic
+        //testing HAHAHHAHAHA
 
     }
 
