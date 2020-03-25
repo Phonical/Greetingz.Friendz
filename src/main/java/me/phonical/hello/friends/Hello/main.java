@@ -9,6 +9,7 @@ public final class main extends JavaPlugin implements CommandExecutor {
     public void onEnable() {
         // Plugin startup logic
         //testing HAHAHHAHAHA
+        //why this no work
 
     }
 
